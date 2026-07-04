@@ -1,0 +1,6 @@
+{
+  "name": "Panze Dashboard",
+  "description": "A highly-polished business dashboard inspired by Panze, featuring Sales and Purchases metrics, Recent Invoices, devices breakdown, and seamless navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
